@@ -46,9 +46,9 @@ layers:
   - V
   - B
   - $$mdi:arrow-right-bold$$
-  - {t: ., s: '>'}
   - N
   - M
+  - .
   - {t: ',', s: <}
   - {t: /, s: '?'}
   - $$mdi:backspace-reverse-outline$$
